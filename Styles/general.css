@@ -21,6 +21,7 @@ nav {
 .menu {
     color: white;
     text-decoration: none;
+    padding: 10px;
     transition: opacity 0.15s,
                 box-shadow 0.15s;
 }

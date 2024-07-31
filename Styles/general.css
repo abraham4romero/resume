@@ -25,12 +25,13 @@ nav {
 .menu {
     color: white;
     text-decoration: none;
-    padding: 10px;
+    margin: 10px;
     transition: opacity 0.15s,
                 box-shadow 0.15s;
 }
 
 .menu:hover {
+    background-color: #223f5b;
     box-shadow: 4px 4px 3px rgba(0, 0, 0, 0.5);
 }
 

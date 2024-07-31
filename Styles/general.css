@@ -39,7 +39,7 @@ nav {
 }
 
 main {
-    min-height: 10vh;
+    min-height: device-height;
     display: grid;
     grid-template-rows: 1fr auto;
     background-color: #ffffff;

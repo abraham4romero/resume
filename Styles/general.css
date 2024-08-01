@@ -40,6 +40,6 @@ div.job {
     margin-right: auto;
     border: 2px solid rgb(152, 152, 152);
     box-shadow: 4px, 4px, 4px, rgba(0, 0, 0, 0.4);
-    width: 70hf;
+    width: 70%;
     height: fit-content;
 }
